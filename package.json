@@ -1,0 +1,23 @@
+{
+    "name": "proxy-server-template",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "apicache": "^0.8.4",
+        "cheerio": "^0.22.0",
+        "compression": "^1.6.2",
+        "express": "^4.15.2",
+        "html-minifier": "^3.4.2",
+        "minimist": "^1.2.0",
+        "proxy-express": "^2.0.0",
+        "request": "^2.81.0",
+        "underscore": "^1.8.3",
+        "forever": "^0.15.3"
+    },
+    "description": "proxy server template",
+    "main": "index.js",
+    "author": "fallen90",
+    "license": "MIT"
+}
